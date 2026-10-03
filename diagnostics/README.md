@@ -9,7 +9,7 @@ This version adds:
 - ROMs id (using 24-bit checksum).
 - Improved SID audio test (needs more work).
 
-![screenshots](media/324835.jpg)
+![screenshots](media/324835.png)
 
 
 # LICENSE
