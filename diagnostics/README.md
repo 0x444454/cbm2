@@ -1,4 +1,4 @@
-# CBM 2 Diagnostics
+# CBM-II Diagnostics
 
 ## Improved [324835](https://github.com/cbm2/diagnostics/324835) for B-Series
 
