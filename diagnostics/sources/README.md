@@ -45,7 +45,7 @@ The resulting Kernal file has been tested working on real B128 and B256 machines
 
 # CREDITS
 
-The original binary Diagnostic Cartridge ROM was created by Commodore in 1983.
+The original Diagnostic Cartridge ROM was created by Commodore in 1983.
 
 
 # LICENSE
