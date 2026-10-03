@@ -29,7 +29,7 @@ Enhanced features added:
 - **TIMERS**: Test 6526 CIA timers.
 - **INTERRUPT**: Test interrupts using the 6526 CIA and 6525 Tri Port (U8) interface.
 - **DRAM SEGMENTS**: Test 2 (B128) or 4 (B256) 64 KB segments of DRAM. Reports bit errors and location.
-- **SOUND CHIP**: Plays a some sounds with the SID 6581. This test is very poorly implemented and should be improved.
+- **SOUND CHIP**: Plays some sounds with the SID 6581, and does a very poor attempt at a filter sweep. This test is very poorly implemented and should be improved.
 
 
 ### Optional Harness
