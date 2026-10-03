@@ -15,7 +15,7 @@ If you need both, build twice. :-)
 
 Use the 64TASS assembler.
 
-### Cartridge build
+### CARTRIDGE ROM
 
 Build the raw ROM file:
 
@@ -30,7 +30,7 @@ Test with VICE emulator:
 ```xcbm2.exe -cart2 324835C.rom```  
 
 
-### Kernal replacement build
+### KERNAL REPLACEMENT ROM
 
 Build the raw ROM file:
 
