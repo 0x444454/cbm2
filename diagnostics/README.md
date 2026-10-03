@@ -24,8 +24,8 @@ Enhanced features added:
 - **KEYBOARD**: [Requires harness]. Test the keyboard through the keyboard 6525 Tri Port (U84) interface.
 - **RS-232**: [Requires harness]. Test the keyboard through the keyboard 6551 interface.
 - **CASSETTE**: [Requires harness]. Test the cassette interface.
-- **USER PORT**: [User Port]. Test the user port through the 6526 CIA and 6525 Tri Port (U8) interface.
-- **IEEE PORT**: [User Port]. Test the IEEE port through the 6526 CIA and 6525 Tri Port (U8) interface.
+- **USER PORT**: [Requires harness]. Test the user port through the 6526 CIA and 6525 Tri Port (U8) interface.
+- **IEEE PORT**: [Requires harness]. Test the IEEE port through the 6526 CIA and 6525 Tri Port (U8) interface.
 - **TIMERS**: Test 6526 CIA timers.
 - **INTERRUPT**: Test interrupts using the 6526 CIA and 6525 Tri Port (U8) interface.
 - **DRAM SEGMENTS**: Test 2 (B128) or 4 (B256) 64 KB segments of DRAM. Reports bit errors and location.
