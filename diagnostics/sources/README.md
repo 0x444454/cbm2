@@ -42,6 +42,12 @@ Test with VICE emulator:
 
 The resulting Kernal file has been tested working on real B128 and B256 machines using a OneRom 24E flash ROM.
 
+
+# CREDITS
+
+The original binary Diagnostic Cartridge ROM was created by Commodore in 1983.
+
+
 # LICENSE
 
 Creative Commons, CC BY
