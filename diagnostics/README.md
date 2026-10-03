@@ -7,6 +7,7 @@ Supported machines: B128, B256 (CBM 600 and 700 series).
 
 Enhanced features added:
 - Kernal replacement support.
+- Do not freeze in case harness is missing.
 - ROMs id (using 24-bit checksum).
 - Improved SID audio test (needs more work).
 
