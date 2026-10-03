@@ -1,6 +1,6 @@
 # SELECT THE TARGET BUILD
 
-Open the ```mandelbr8.asm``` file. At the beginning, you will find the following lines:
+Open the ```324835.asm``` file. At the beginning, you will find the following lines:
 
 ```asm
 ; Enable only the build you need (set to 1).
