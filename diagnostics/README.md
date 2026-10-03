@@ -13,7 +13,9 @@ Enhanced features added:
 ![screenshots](media/324835.png)
 
 
-NOTE: If run without Diagnostics harness (loopback dongles, et cetera), expect the diagnostics to report several errors (e.g. RS-232 test).  
+### Optional Harness
+
+If run without Diagnostics harness (loopback dongles, et cetera), expect the diagnostics to report several errors (e.g. RS-232 test).  
 Nevertheless, the main system components can be tested and validated even without harness.  
 For more information about the harness, see here:  
 https://www.zimmers.net/anonftp/pub/cbm/b/carts/324835-01-diag.zip
