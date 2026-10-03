@@ -8,7 +8,8 @@ BUILD_TYPE_CARTRIDGE = 1    ; Cartridge (@ $2000).
 BUILD_TYPE_KERNAL    = 0    ; Kernal (@ $E000).
 ```
 
-Enable **only** one build at a time.
+Enable **only** one build at a time.  
+If you need both, build twice. :-)
 
 # BUILD THE BINARY
 
