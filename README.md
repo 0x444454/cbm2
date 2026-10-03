@@ -2,7 +2,7 @@
 ## Commodore CBM-II (B and P series) related projects
 
 # PROJECTS LIST
-- CBM 2 Diagnostics
+-  [CBM 2 Diagnostics](https://github.com/cbm2/diagnostics/324835)
 
 # LICENSE
 
