@@ -21,8 +21,8 @@ Enhanced features added:
 - **BASIC ROM (L)**: Test the low 8 KB of BASIC ROM. Print a 24-bits (6 hex digits) checksum to allow identifying the ROM.
 - **BASIC ROM (H)**: Test the high 8 KB of BASIC ROM. Print a 24-bits (6 hex digits) checksum to allow identifying the ROM.
 - **KERNAL ROM (H)**: Test the 8 KB of KERNAL ROM. Print a 24-bits (6 hex digits) checksum to allow identifying the ROM. If the Kernal ROM has been replaced by the Kernal version of this Diagnostics, then "DIAG" will be printed and the checksum will allow identifying this Diagnostics release.
-- **KEYBOARD**: [Requires harness]. Test the keyboard through the keyboard 6525 Tri Port (U84) interface.
-- **RS-232**: [Requires harness]. Test the keyboard through the keyboard 6551 interface.
+- **KEYBOARD**: [Requires harness]. Test the keyboard through the 6525 Tri Port (U84) interface.
+- **RS-232**: [Requires harness]. Test the keyboard using the 6551 interface.
 - **CASSETTE**: [Requires harness]. Test the cassette interface.
 - **USER PORT**: [Requires harness]. Test the user port through the 6526 CIA and 6525 Tri Port (U8) interface.
 - **IEEE PORT**: [Requires harness]. Test the IEEE port through the 6526 CIA and 6525 Tri Port (U8) interface.
