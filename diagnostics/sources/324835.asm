@@ -84,7 +84,7 @@ reloc_done:
         
 .elif BUILD_TYPE_CARTRIDGE
 ; ----------------- CARTRIDGE BUILD ONLY -----------------
-        * = $2000           ; ORG of KERNAL ROM. Set to $2000 for cartridge.
+        * = $2000           ; ORG of Cartridge ROM.
 cartridge_header:
         jmp  main           ; Cold start entry point (cartridge).
 LE003:
@@ -96,7 +96,7 @@ cbm2_rom_signature:
 
 .elif BUILD_TYPE_KERNAL
 ; ----------------- KERNAL BUILD ONLY -----------------
-        * = $E000           ; ORG of KERNAL ROM. Set to $2000 for cartridge.
+        * = $E000           ; ORG of KERNAL ROM.
 .endif
 ;
 ; *** WARNING *** DO NOT INSERT ANYTHING HERE.
