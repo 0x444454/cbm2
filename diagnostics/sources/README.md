@@ -18,7 +18,7 @@ Use the 64TASS assembler.
 
 Build the raw ROM file:
 
-64tass -b -o 324835C.rom -L 324835C.lst -a 324835.asm
+```64tass -b -o 324835C.rom -L 324835C.lst -a 324835.asm```
 
 If you want a CRT file, use the VICE emulator **cartconv** command line tool after building the raw ROM:  
 
@@ -33,7 +33,7 @@ Test with VICE emulator:
 
 Build the raw ROM file:
 
-64tass -b -o 324835K.rom -L 324835K.lst -a 324835.asm  
+```64tass -b -o 324835K.rom -L 324835K.lst -a 324835.asm```
 
 Test with VICE emulator:  
 
