@@ -2,7 +2,7 @@
 
 ## Improved [324835](https://github.com/cbm2/diagnostics/324835) for B-Series
 
-An improved B-Series 324835 Diagnostics ROM that available both as Cartridge ROM or a Kernal ROM replacement.  
+An improved B-Series 324835 Diagnostics ROM, available both as Cartridge ROM or a Kernal ROM replacement.  
 Supported machines: B128, B256 (CBM 600 and 700 series).
 
 Enhanced features added:
