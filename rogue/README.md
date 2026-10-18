@@ -1,6 +1,6 @@
 # Rogue for CBM-II
 
-Ported from Classic Rogue 5.4.4: https://github.com/Davidslv/rogue".
+Ported from Classic Rogue 5.4.4: https://github.com/Davidslv/rogue.
 
 ![screenshots](media/rogue_b128.png)
 
