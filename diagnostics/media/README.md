@@ -1,1 +1,1 @@
-Media files.
+Media files for Diagnostics.
