@@ -2,12 +2,9 @@
 ## Commodore CBM-II (B and P series) related projects
 
 # PROJECTS LIST
--  [CBM 2 Diagnostics](https://github.com/0x444454/cbm2/tree/main/diagnostics)
+-  [CBM 2 Diagnostics](https://github.com/0x444454/cbm2/tree/main/diagnostics): Enhanced diagnostics (Cartridge or Kernal replacement).
+-  [Rogue](https://github.com/0x444454/cbm2/tree/main/rogue): A port of the Classic Rogue game.
 
 # LICENSE
 
-Creative Commons, CC BY
-
-https://creativecommons.org/licenses/by/4.0/deed.en
-
-Please add a link to this github project.
+Check LICENSE info in each project.
