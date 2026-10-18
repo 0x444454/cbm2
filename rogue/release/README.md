@@ -8,3 +8,7 @@
 ## USBKAV binary
 
 - **rogue_b128.cbm2**: USBKAV version [my USBKAV device is W.I.P. - more info soon...]
+
+# LICENSE
+
+This project is licensed under a BSD-style license. See [LICENSE.TXT](release/LICENSE.TXT) for details.
