@@ -7,7 +7,7 @@ Ported from Classic Rogue 5.4.4: https://github.com/Davidslv/rogue.
 ## Requirements
 
 - A Commodore B128 or B256 (CBM-II series 600 and 700).
-- A disk drive.
+- A disk drive or USBKAV device [work in progress].
 
 ## Optional (recommended)
 
