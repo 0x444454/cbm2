@@ -11,4 +11,4 @@
 
 # LICENSE
 
-This project is licensed under a BSD-style license. See [LICENSE.TXT](release/LICENSE.TXT) for details.
+This project is licensed under a BSD-style license. See [LICENSE.TXT](LICENSE.TXT) for details.
