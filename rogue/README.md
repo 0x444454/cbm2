@@ -9,6 +9,10 @@ Ported from Classic Rogue 5.4.4: https://github.com/Davidslv/rogue.
 - A Commodore B128 or B256 (CBM-II series 600 and 700).
 - A disk drive or USBKAV device [work in progress].
 
+## Release files
+
+Binaries are [here](release/)
+
 ## Optional (recommended)
 
 - If you are using the old character ROM (901232-01), you may want to upgrade to the new one ([901232-02](https://www.zimmers.net/anonftp/pub/cbm/firmware/computers/b/characters.901232-02.bin))
@@ -23,7 +27,7 @@ Ported from Classic Rogue 5.4.4: https://github.com/Davidslv/rogue.
 
 # LICENSE
 
-This project is licensed under a BSD-style license. See ![LICENSE.TXT](release/LICENSE.TXT) for details.
+This project is licensed under a BSD-style license. See [LICENSE.TXT](release/LICENSE.TXT) for details.
 
 Copyright (C) 1980-1983, 1985, 1999 Michael Toy, Ken Arnold and Glenn Wichman
 
