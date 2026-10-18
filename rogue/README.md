@@ -17,6 +17,7 @@ Binaries are [here](release/)
 
 - If you are using the old character ROM (901232-01), you may want to upgrade to the new one ([901232-02](https://www.zimmers.net/anonftp/pub/cbm/firmware/computers/b/characters.901232-02.bin))
  for much better PETSCII rendering.
+- If using the VICE xcbm2 emulator, go to "Settings" → "Machine" → "ROM" → "Chargen", and then change it to use the 901232-02 ROM file.
 
 ### Build details
 
