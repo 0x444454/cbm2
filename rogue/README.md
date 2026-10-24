@@ -26,6 +26,10 @@ Binaries are [here](release/)
 - I/O routines are replaced with CBM-II versions.
 - Huge PETSCII "Graphics" upgrade ;-) ... Make sure you have the latest [901232-02](https://www.zimmers.net/anonftp/pub/cbm/firmware/computers/b/characters.901232-02.bin) Char ROM.
 
+# Looking for a Commodore C128 (not B128) version ?
+
+https://github.com/0x444454/Rogue-C128
+
 # LICENSE
 
 This project is licensed under a BSD-style license. See [LICENSE.TXT](release/LICENSE.TXT) for details.
