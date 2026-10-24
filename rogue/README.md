@@ -9,6 +9,10 @@ Ported from Classic Rogue 5.4.4: https://github.com/Davidslv/rogue.
 - A Commodore B128 or B256 (CBM-II series 600 and 700).
 - A disk drive or USBKAV device [work in progress].
 
+#### NOTE: Looking for a Commodore C128 (not B128) version ?
+Check here: https://github.com/0x444454/Rogue-C128
+
+
 ## Release files
 
 Binaries are [here](release/)
@@ -25,10 +29,6 @@ Binaries are [here](release/)
 - Code and some data stay (barely !) in bank 1, while most strings and other structs are moved to bank 2.  
 - I/O routines are replaced with CBM-II versions.
 - Huge PETSCII "Graphics" upgrade ;-) ... Make sure you have the latest [901232-02](https://www.zimmers.net/anonftp/pub/cbm/firmware/computers/b/characters.901232-02.bin) Char ROM.
-
-### Looking for a Commodore C128 (not B128) version ?
-
-https://github.com/0x444454/Rogue-C128
 
 # LICENSE
 
