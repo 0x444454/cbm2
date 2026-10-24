@@ -19,7 +19,7 @@ Binaries are [here](release/)
  for much better PETSCII rendering.
 - If using the VICE xcbm2 emulator, go to "Settings" → "Machine" → "ROM" → "Chargen", and then change it to use the 901232-02 ROM file.
 
-### Build details
+## Build details
 
 - Classic Rogue 5.4.4 source code is patched to compile on [Oscar64](https://github.com/drmortalwombat/oscar64) targeting PET32.  
 - Code and some data stay (barely !) in bank 1, while most strings and other structs are moved to bank 2.  
