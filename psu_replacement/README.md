@@ -60,6 +60,7 @@ The plastic plug comes with no pins. Do **NOT** insert the pins in the plug befo
 First, crimp all the wires to the metal pins.  
 You may want to buy more than 6 pins if you never crimped this kind of pins before.  There are several tutorial videos on the Internet.  
 Make sure all pins are correctly and firmly crimped to their wires.  
+If you want to use heat-shrink tubing or braided cable sleeving to hold together the wires, now is the time.  
 **IMPORTANT: Make sure the plug is oriented correctly. It is not symmetric. Pin 1 is "D" shaped, not "O" shaped !!!**  
 After verifying the correct orientation of the plug, you can finally insert the crimped pins in the male plug.  
 Make sure you insert the pins in the correct positions.  
