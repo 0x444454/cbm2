@@ -80,3 +80,11 @@ If you get no video signal, check voltages on the SID chip: pin 25 should be +5V
 If voltages are ok, and your board has a MOS 6545A video chip, chances are this chip has failed.  
 Other chips prone to failures are: PLA (if you have a MOS one) and the 6509 CPU.  
 
+
+# LICENSE
+
+Creative Commons, CC BY
+
+https://creativecommons.org/licenses/by/4.0/deed.en
+
+Please add a link to this github project.
