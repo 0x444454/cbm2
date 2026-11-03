@@ -14,9 +14,10 @@ Tested on B-Series (B128/B256 a.k.a. CBM 600/700).
 | 1 | Amiga 2000 / 3000 ATX Power Adapter PCB | I got the one from _LeapMaker_ on eBay. IMPORTANT: Get the model **with Tick** |
 | 1 | TE 350715-1 AMP 6-pin plug housing | |
 | 6 | TE 350547-1 AMP pin contacts | 20–14 AWG spare pins¹ |
-| 6 | Wires | 20 AWG, stranded (though I used solid-core without issues) |
+| 6 | Wires² | 20 AWG, stranded (though I used solid-core without issues) |
 
 ¹ You also need a crimping tool (I used Haisstronica HS-5327). Buy more pins in case you are not familiar with crimping.  
+² I recommend using 5 different colors to avoid mistakes.  If possible, use the same colors I used.     
 
 ## PSU connector pinout
 
