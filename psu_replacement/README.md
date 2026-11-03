@@ -17,7 +17,7 @@ Tested on B-Series (B128/B256 a.k.a. CBM 600/700).
 | 1 | TE 350715-1 AMP 6-pin plug housing | It's the white plug in the photos |
 | 6 | TE 350547-1 AMP pin contacts | 20–14 AWG spare pins¹ |
 | 6 | Wires² | 20 AWG, stranded (though I used solid-core without issues) |
-| Optional | Tubing/Sleeving | Heat-shrink tubing or braided cable sleeving to hold together the wires |
+| (optional) | Tubing/Sleeving | Heat-shrink tubing or braided cable sleeving to hold together the wires |
 
 ¹ You also need a crimping tool (I used Haisstronica HS-5327). Buy more pins in case you are not familiar with crimping.  
 ² I recommend using 5 different wire colors to avoid mistakes.  If possible, use the same colors I used.  
