@@ -17,7 +17,7 @@ Tested on B-Series (B128/B256 a.k.a. CBM 600/700).
 | 6 | Wires² | 20 AWG, stranded (though I used solid-core without issues) |
 
 ¹ You also need a crimping tool (I used Haisstronica HS-5327). Buy more pins in case you are not familiar with crimping.  
-² I recommend using 5 different colors to avoid mistakes.  If possible, use the same colors I used.     
+² I recommend using 5 different wire colors to avoid mistakes.  If possible, use the same colors I used.  
 
 ## PSU connector pinout
 
