@@ -32,7 +32,7 @@ The PSU connector on the motherboard is brown, identified as CN5 on Hi-Profile b
 | 3 | +12 V DC |Yellow|
 | 4 | GND |Black|
 | 5 | GND |Black|
-| 6 | +5 V DC |Blue|
+| 6 | +5 V DC |Red|
 
 ## PSU adapter board
 
