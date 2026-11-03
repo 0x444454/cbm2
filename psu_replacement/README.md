@@ -25,18 +25,18 @@ The PSU connector on the motherboard is brown, identified as CN5 on Hi-Profile b
 
 ![pinout](media/psu_pinout.jpg)
 
-| **Pin** | **Signal** |
-|---:|---|
-| 1 | 50/60 Hz Tick input |
-| 2 | −12 V DC |
-| 3 | +12 V DC |
-| 4 | GND |
-| 5 | GND |
-| 6 | +5 V DC |
+| **Pin** | **Signal** | **Color in photos**|
+|---:|---|---|
+| 1 | 50/60 Hz Tick input |White|
+| 2 | −12 V DC |Blue|
+| 3 | +12 V DC |Yellow|
+| 4 | GND |Black|
+| 5 | GND |Black|
+| 6 | +5 V DC |Blue|
 
 ## PSU adapter board
 
-I used the Amiga 2000 / 3000 ATX adapter PCB from seller _LeapMaker_ on eBay.  
+I used the _Amiga 2000 / 3000 ATX adapter_ PCB from seller _LeapMaker_ on eBay.  
 It comes with or without Tick generator. Get the model **with Tick** unless you have different way to generate the Tick signal on PSU connector pin 1.  
 
 The connection is straightforward. The outputs from the screw terminal block (in green) are clearly indicated on the PCB.  
