@@ -20,7 +20,7 @@ Tested on B-Series (B128/B256 a.k.a. CBM 600/700).
 
 ## PSU connector pinout
 
-The PSU connector on the motherboard is brown, identified as CN5 on Hi-Profile boards, or J5 on the Lo-Profile boards.  
+The female PSU connector on the motherboard is brown, identified as CN5 on Hi-Profile boards, or J5 on the Lo-Profile boards.  
 **IMPORTANT NOTE**: I am not sure about the P500 model. May be same or different. Check it first !
 
 ![pinout](media/psu_pinout.jpg)
