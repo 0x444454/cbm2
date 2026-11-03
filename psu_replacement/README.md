@@ -54,7 +54,7 @@ Make sure all pins are correctly and firmly crimped to their wires.
 **IMPORTANT: Make sure the plug is oriented correctly. It is not symmetric. Pin 1 is "D" shaped, not "O" shaped !!!**  
 After verifying the correct orientation of the plug, then insert the crimped pins.  
 Make sure you insert the pins in the correct positions.  
-**WARNING**: Inserting pins in the wrong position may damage your motherboard.  
+**WARNING: Inserting pins in the wrong position may damage your motherboard.**  
 
 ![pinout](media/psu_plug.jpg)
 
