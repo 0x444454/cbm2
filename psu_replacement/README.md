@@ -9,7 +9,7 @@ Tested on B-Series (B128/B256 a.k.a. CBM 600/700).
 | **Quantity** | **Item** | **Notes** |
 |---:|---|---|
 | 1 | ATX PSU | Minimum ratings: +5V 6.5A, +12V 0.4A, -12V 0.3A   |
-| 1 | Amiga 2000 / 3000 ATX Power Adapter | IMPORTANT: Get the model **with Tick** |
+| 1 | Amiga 2000 / 3000 ATX Power Adapter PCB | I got the one from _LeapMaker_ on eBay. IMPORTANT: Get the model **with Tick** |
 | 1 | TE 350715-1 AMP 6-pin plug housing | |
 | 6 | TE 350547-1 AMP pin contacts | 20–14 AWG; Pin & Socket Connectors |
 | 6 | Wires | 20 AWG, stranded (though I used solid-core without issues) |
