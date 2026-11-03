@@ -37,7 +37,7 @@ The PSU connector on the motherboard is brown, identified as CN5 on Hi-Profile b
 ## PSU adapter board
 
 I used the _Amiga 2000 / 3000 ATX adapter_ PCB from seller _LeapMaker_ on eBay.  
-It comes with or without Tick generator. Get the model **with Tick** unless you have different way to generate the Tick signal on PSU connector pin 1.  
+It comes with or without Tick generator. Get the model **with Tick** unless you have a different way to generate the Tick signal on PSU connector pin 1.  
 
 The connection is straightforward. The outputs from the screw terminal block (in green) are clearly indicated on the PCB.  
 You only need to connect Tick, -12V, +12V, ground (GND), and +5V. There should be no need to connect two GND wires, but I did it anyway.  
