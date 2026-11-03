@@ -1,5 +1,6 @@
 # CBM-II Replacement PSU
 
+How to use a standard ATX PSU with your CBM-II machine.  
 Tested on B-Series (B128/B256 a.k.a. CBM 600/700).  
 
 **IMPORTANT NOTE**: I am not sure about the P500 (a.k.a. CBM 500) pinout. Check pinout and voltages before trying.  
