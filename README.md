@@ -4,6 +4,7 @@
 # PROJECTS LIST
 -  [CBM 2 Diagnostics](https://github.com/0x444454/cbm2/tree/main/diagnostics): Enhanced diagnostics (Cartridge or Kernal replacement).
 -  [Rogue](https://github.com/0x444454/cbm2/tree/main/rogue): A port of the Classic Rogue game.
+-  [PSU Replacement](https://github.com/0x444454/cbm2/tree/main/psu_replacement): How to use an ATX PSU with your machine.
 
 # LICENSE
 
