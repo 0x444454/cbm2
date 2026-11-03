@@ -47,6 +47,12 @@ You only need to connect Tick, -12V, +12V, ground (GND), and +5V. There should b
 
 ![pinout](media/psu_adapter.jpg)
 
+## Wires
+
+Use 20 AWG wires.  Make sure to *tune their length to your [use] case :-).  
+I strongly recommend using 5 different wire colors to avoid mistakes.  If possible, use the same colors I used.  
+Optionally, you may want to use heat-shrink tubing or braided cable sleeving for a final result that is "slightly" more elegant than mine.  
+
 ## Crimping the wires
 
 The male PSU plug is a 2×3 TE/AMP Universal MATE-N-LOK plug (i.e. the white one in the image below).  
