@@ -48,13 +48,13 @@ You only need to connect Tick, -12V, +12V, ground (GND), and +5V. There should b
 
 The male PSU plug is a 2×3 TE/AMP Universal MATE-N-LOK plug.  
 The plastic plug comes with no pins. Do **NOT** insert the pins in the plug before crimping.  
-First, crimp all the wires to the metal pins.
+First, crimp all the wires to the metal pins.  
 You may want to buy more than 6 pins if you never crimped this kind of pins before.  There are several tutorial videos on the Internet.  
-Make sure all pins are correctly and firmly crimped to their wires.
-**IMPORTANT: Make sure the plug is oriented correctly. It is not symmetric. Pin 1 is "D" shaped, not "O" shaped !!!**
-Insert the pins into the plastic plug (i.e. the white one in the image below).
-Make sure you insert the pins in the correct positions.
-**WARNING**: Inserting pins in the wrong position may damage your motherboard.
+Make sure all pins are correctly and firmly crimped to their wires.  
+**IMPORTANT: Make sure the plug is oriented correctly. It is not symmetric. Pin 1 is "D" shaped, not "O" shaped !!!**  
+Insert the pins into the plastic plug (i.e. the white one in the image below).  
+Make sure you insert the pins in the correct positions.  
+**WARNING**: Inserting pins in the wrong position may damage your motherboard.  
 
 ![pinout](media/psu_plug.jpg)
 
