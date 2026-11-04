@@ -28,7 +28,7 @@ Tested on B-Series (B128/B256 a.k.a. CBM 600/700).
 High-Profile and Low-profile machines have different connectors.  
 Pick the right one.  
 
-### High-Profile (7xx models)
+### High-Profile (7xx models) pinout
 
 The video connector on the motherboard is identified as CN10.  
 These machines output 14 lines per character.  
@@ -46,7 +46,7 @@ These machines output 14 lines per character.
 | 7 | GND |Black|
 
 
-### Low-Profile (6xx models)
+### Low-Profile (6xx models) pinout
 
 **NOTE: I do not have a Low-Profile machine, so everything in this chapter is untested.**
 
@@ -88,7 +88,7 @@ In our case, the other end will need an adapter (see next chapter).
 ### Low-Profile (6xx models)
 
 Same as for High-Profile, but you'll need to cut the female jumper ends of the wires and solder them to a 5-pin DIN male 180° solder-cup connector that can plug into the external DIN socket on the back of the machine.  
-See [Low-Profile (6xx models)](#low-profile-6xx-models) for DIN pinout.  
+See [Low-Profile (6xx models)](#low-profile-6xx-models-pinout).  
 
 **NOTE:** I don't have a Low-Profile machine, so no pictures are provided.  
 
