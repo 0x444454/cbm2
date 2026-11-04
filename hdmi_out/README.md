@@ -17,9 +17,9 @@ Tested on B-Series (B128/B256 a.k.a. CBM 600/700).
 | 1 | DE-9 female to DE-9 female cable | This allows also Commodore 128 VDC compatibility |
 | 1 | DE-9 male solder-cup connector ||
 | 4 | Wires¹ | 4 female to male (or female) jumper wires |
-| (6xx machines only) | 5-pin DIN male 180° solder-cup connector (only on Low-Profile machines) ||
-| (optional) | RGBtoHDMI plastic case ||
-| (if needed) | Mini-HDMI (Type C) male to HDMI (Type A) female adapter ||
+| 1 (6xx machines only) | 5-pin DIN male 180° solder-cup connector | **Only on Low-Profile machines**|
+| 1 (optional) | RGBtoHDMI plastic case ||
+| 1 (if needed) | Mini-HDMI (Type C) male to HDMI (Type A) female adapter ||
 
 ¹ I recommend using 4 different wire colors to avoid mistakes.
 
@@ -81,8 +81,16 @@ In our case, the other end will need an adapter (see next chapter).
 
 ## DE9 to B128/B256 adapter
 
+### High-Profile (7xx models)
+
 ![DE9 adapter](media/de9_adapter.jpg)
 
+### Low-Profile (6xx models)
+
+Same as for High-Profile, but you'll need to cut the female jumper ends of the wires and solder them to a 5-pin DIN male 180° solder-cup connector that can plug into the external DIN socket on the back of the machine.  
+See [Low-Profile (6xx models)](#low-profile-6xx-models) for DIN pinout.  
+
+**NOTE:** I don't have a Low-Profile machine, so no pictures are provided.  
 
 ## RGBtoHDMI Settings
 
