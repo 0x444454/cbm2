@@ -33,7 +33,8 @@ Pick the right one.
 The video connector on the motherboard is identified as CN10.  
 These machines output 14 lines per character.  
 
-![pinout](media/hp_pinout.jpg)
+![pinout](media/hp_pinout.jpg)  
+*Motherboard connections (High-Profile machines)*
 
 | **Pin** | **Signal** | **Wire color in photos**|
 |---:|---|---|
@@ -93,8 +94,6 @@ This is the DE-9 pinout:
 | 8 | H-Sync | Horizontal sync — TTL |Orange|
 | 9 | V-Sync| Vertical sync — TTL |Yellow|
 
-![DE9 adapter](media/de9_adapter.jpg)  
-*Motherboard connections (High-Profile machines)*
 
 ### Low-Profile (6xx models) adapter
 
