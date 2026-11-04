@@ -74,6 +74,7 @@ Keep in mind you may have to provide your own Pi Zero, and Micro SD card.
 I also recommend getting or 3D-printing a case for it.
 
 ![RGBtoHDMI](media/rgbtohdmi.jpg)  
+*The RGBtoHDMI three board sandwich*
 
 We'll use a **DE-9 male to DE-9 male cable** (often incorrectly called "DB-9" instead of "DE-9").  
 One end of this cable connects directly to the RGBtoHDMI TTL board, and the other end can be connected directly to other vintage machines.  
