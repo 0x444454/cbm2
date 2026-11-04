@@ -54,7 +54,7 @@ The video connector on the motherboard is identified as J3, a 5-pin DIN female s
 These machines output 8 lines per character.  
 
 | **Pin** | **Signal** |**Wire color**|
-|---:|---|
+|---:|---|---|
 | 1 | Video (Luma) |Green|
 | 2 | GND |Black|
 | 3 | V-Sync |Yellow|
@@ -87,7 +87,7 @@ Wire one end of each of the 4 jumper wires to the DE-9 male solder-cup connector
 This is the DE-9 pinout:
 
 | **Pin** | **Signal** | **Description** |**Wire color in photos**|
-|---:|---|---|
+|---:|---|---|---|
 | 1 | GND | Ground |Black|
 | 4 | G | Video (Luma) |Green|
 | 8 | H-Sync | Horizontal sync — TTL |Orange|
