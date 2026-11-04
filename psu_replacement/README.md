@@ -86,8 +86,8 @@ It may take several seconds to see a boot prompt on screen (especially on the B2
 
 ## Troubleshooting
 
-If you get no video signal, check voltages on the SID chip: pin 25 should be +5V and pin 28 should be +12V.  
-If voltages are ok, and your board has a MOS 6545A video chip, chances are this chip has failed.  
+If you get no video signal, check voltages on the MOS 6581 (SID) chip: pin 25 should be +5V and pin 28 should be +12V.  
+If voltages are ok, and your board has a MOS 6545A video chip, chances are this chip has failed. You can replace it directly with a Motorola 68B45P.  
 Other chips prone to failures are: PLA (if you have a MOS one) and the 6509 CPU.  
 
 
