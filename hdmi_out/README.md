@@ -5,7 +5,7 @@ Tested on B-Series (B128/B256 a.k.a. CBM 600/700).
 
 **NOTE**: The P500 model uses a different video chip (VIC-II) and a different connector. Do **NOT** use this guide for a P500.  
 
-![overall](media/hdmi_overall.jpg)
+![overall](media/overall.jpg)
 *The final solution (High-Profile machines)*
 
 ## Ingredients
