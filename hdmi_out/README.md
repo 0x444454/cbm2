@@ -5,7 +5,7 @@ Tested on B-Series (B128/B256 a.k.a. CBM 600/700).
 
 **NOTE**: The P500 model uses a different video chip (VIC-II) and a different connector. Do **NOT** use this guide for a P500.  
 
-![overall](media/overall.jpg)
+![overall](media/overall.jpg)  
 *The final solution (High-Profile machines)*
 
 ## Ingredients
@@ -72,7 +72,7 @@ You can build everything yourself, or buy it (and the TTL board) already made fr
 Keep in mind you may have to provide your own Pi Zero, and Micro SD card.
 I also recommend getting or 3D-printing a case for it.
 
-![RGBtoHDMI](media/rgbtohdmi.jpg)
+![RGBtoHDMI](media/rgbtohdmi.jpg)  
 
 We'll use a **DE-9 male to DE-9 male cable** (often incorrectly called "DB-9" instead of "DE-9").  
 One end of this cable connects directly to the RGBtoHDMI TTL board, and the other end can be connected directly to other vintage machines.  
@@ -93,7 +93,8 @@ This is the DE-9 pinout:
 | 8 | H-Sync | Horizontal sync — TTL |Orange|
 | 9 | V-Sync| Vertical sync — TTL |Yellow|
 
-![DE9 adapter](media/de9_adapter.jpg)
+![DE9 adapter](media/de9_adapter.jpg)  
+*Motherboard connections (High-Profile machines)*
 
 ### Low-Profile (6xx models) adapter
 
