@@ -61,7 +61,7 @@ These machines output 8 lines per character.
 | 4 | Composite ||
 | 5 | H-Sync |Orange|
 
-**NOTE: You will need to wire the DE9 signals to a 5-pin DIN male connector that will plug into the back side of your Low-Profile machine.**
+**NOTE: You will need to wire the DE9 signals to a 5-pin DIN male connector which will plug into the back side of your Low-Profile machine.**
 
 ## The RGBtoHDMI
 
