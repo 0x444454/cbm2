@@ -48,18 +48,18 @@ These machines output 14 lines per character.
 
 ### Low-Profile (6xx models) pinout
 
-**NOTE: I do not have a Low-Profile machine, so everything in this chapter is untested.**
+**NOTE: I do not have a Low-Profile machine, so everything in this chapter is untested, and I have no photos.**
 
 The video connector on the motherboard is identified as J3, a 5-pin DIN female socket mounted on the motherboard.  
 These machines output 8 lines per character.  
 
-| **Pin** | **Signal** |
+| **Pin** | **Signal** |**Wire color**|
 |---:|---|
-| 1 | Video (Luma) |
-| 2 | GND |
-| 3 | V-Sync |
-| 4 | Composite |
-| 5 | H-Sync |
+| 1 | Video (Luma) |Green|
+| 2 | GND |Black|
+| 3 | V-Sync |Yellow|
+| 4 | Composite ||
+| 5 | H-Sync |Orange|
 
 **NOTE: You will need to wire the DE9 signals to a 5-pin DIN male connector that will plug into the back side of your Low-Profile machine.**
 
@@ -81,11 +81,21 @@ In our case, the other end will need an adapter (see next chapter).
 
 ## DE9 to B128/B256 adapter
 
-### High-Profile (7xx models)
+### High-Profile (7xx models) adapter
+
+Wire one end of each of the 4 jumper wires to the DE-9 male solder-cup connector.  
+This is the DE-9 pinout:
+
+| **Pin** | **Signal** | **Description** |**Wire color in photos**|
+|---:|---|---|
+| 1 | GND | Ground |Black|
+| 4 | G | Video (Luma) |Green|
+| 8 | H-Sync | Horizontal sync — TTL |Orange|
+| 9 | V-Sync| Vertical sync — TTL |Yellow|
 
 ![DE9 adapter](media/de9_adapter.jpg)
 
-### Low-Profile (6xx models)
+### Low-Profile (6xx models) adapter
 
 Same as for High-Profile, but you'll need to cut the female jumper ends of the wires and solder them to a 5-pin DIN male 180° solder-cup connector that can plug into the external DIN socket on the back of the machine.  
 See [Low-Profile (6xx models)](#low-profile-6xx-models-pinout).  
