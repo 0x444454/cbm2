@@ -116,14 +116,25 @@ My RGBtoHDMI device uses the _"6-12_BIT_RGB" TTL Buffer Board_, so I store the p
 
 The current RGBtoHDMI firmware does not include a default video profile for CBM-II High-Profile machines.
 
-Use [this](https://github.com/0x444454/cbm2/blob/main/hdmi_out/Profiles/6-12_BIT_RGB/CBM2/High-Profile.txt) RGBtoHDMI profile.
+Copy the .txt files in [this "CBM2" folder](https://github.com/0x444454/cbm2/tree/main/hdmi_out/Profiles/6-12_BIT_RGB/Commodore/CBM2) into the "Commodore" folder of your RGBtoHDMI MicroSD card.
 
-My RGBtoHDMI device uses the "6-12_BIT_RGB" TTL Buffer Board, so I store the profiles in this MicroSD folder:  
+My RGBtoHDMI device uses the "6-12_BIT_RGB" TTL Buffer Board, so the files will be copied as:  
 
-```/Profiles/6-12_BIT_RGB/CBM2/High-Profile.txt```
+```
+/Profiles/6-12_BIT_RGB/Commodore/CBM2/Default.txt
+/Profiles/6-12_BIT_RGB/Commodore/CBM2/High-Profile.txt
+```
 
 NOTE: You may need to create the CBM2 folder.  
 
+Finally reinsert the MicroSD card into the RGBtoHDMI device, and power-cycle it.
+You should now be able to select the new profile.
+
+#### Select the profile
+
+- Enter the RGBtoHDMI menu.
+- Go to "Profile".
+- Change profile until you see "CBM2". Subprofile should be automatically detected as "High-Profile".
 
 ### Low-Profile (6xx models)
 
@@ -136,10 +147,12 @@ Try using "IBM CGA" or "Commodore 128" RGBtoHDMI profiles.
 The RGBtoHDMI supports an optional audio board.  
 I prefer to use an external HDMI audio embedder.  
 
+
 ## Power on
 
 After you have double checked everything and made sure there are no shorts, you can power on.  
 It may take several seconds to see a boot prompt on screen (especially on the B256).  
+
 
 ## Troubleshooting
 
@@ -152,12 +165,7 @@ If after a few seconds you cannot see anything on your display, then:
 
 ### Flashing green or garbage on screen
 
-- Enter the RGBtoHDMI menu.
-- Go to "Profile".
-- 
-
-
-
+Make sure you have [selected the coorect "CBM2" profile](#select-the-profile).
 
 # LICENSE
 
