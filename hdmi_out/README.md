@@ -87,7 +87,10 @@ In our case, the other end will need an adapter (see next chapter).
 
 ### High-Profile (7xx models) adapter
 
-Wire one end of each of the 4 jumper wires to the DE-9 male solder-cup connector.  
+Solder one end of each of the 4 jumper wires to the DE-9 female solder-cup connector.  
+You may need to cut and strip some insulation at the wire end you are soldering.  
+Make sure the other end has a female jumper wire.  
+
 This is the DE-9 pinout:
 
 | **Pin** | **Signal** | **Description** |**Wire color in photos**|
