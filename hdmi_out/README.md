@@ -33,7 +33,7 @@ Pick the right one.
 ### High-Profile (7xx models) pinout
 
 The video connector on the motherboard is identified as CN10.  
-These machines output 18 kHz video at 14 lines per character.  
+These machines output 18 kHz video, 14 lines per character.  Similar to IBM MDA.   
 
 ![pinout](media/hp_pinout.jpg)  
 *Motherboard connections (High-Profile machines)*
@@ -54,7 +54,7 @@ These machines output 18 kHz video at 14 lines per character.
 **NOTE: I do not have a Low-Profile machine, so everything in this chapter is untested, and I have no photos.**
 
 The video connector on the motherboard is identified as J3, a 5-pin DIN female socket mounted on the motherboard.  
-These machines output 15 kHz video at 8 lines per character.  
+These machines output 15 kHz video, 8 lines per character.  Similar to IBM CGA.   
 
 | **Pin** | **Signal** |**Wire color**|
 |---:|---|---|
