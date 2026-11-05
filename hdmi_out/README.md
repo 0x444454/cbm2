@@ -19,7 +19,7 @@ Tested on B-Series (B128/B256 a.k.a. CBM 600/700).
 | 4 | Wires¹ | 4 female to male (or female) jumper wires |
 | 1 (6xx models) | 5-pin DIN male 180° solder-cup connector | **Only on Low-Profile (6xx) machines**|
 | 1 (optional) | RGBtoHDMI plastic case ||
-| 1 (if needed) | Mini-HDMI (Type C) male to HDMI (Type A) female adapter ||
+| 1 (if needed) | Mini-HDMI (Type C) male to HDMI (Type A) female adapter |Because the RGBtoHDMI has a Mini-HDMI (Type C) female port|
 
 ¹ I recommend using 4 different wire colors to avoid mistakes.
 
