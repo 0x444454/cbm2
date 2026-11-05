@@ -163,6 +163,12 @@ If after a few seconds you cannot see anything on your display, then:
 
 Make sure you have [selected the correct "CBM2" profile](#select-the-profile).
 
+## FAQ
+
+Q. Can I use this contraption to convert a classic Commodore 128 (VDC 80-column output) to HDMI ?  
+A. Yes. Remove the _DE9 to CBM-II adapter_ at the DE9 cable end and plug the DE9 cable end directly into the C128 HDMI port. Remember to select the right C128 RGBtoHDMI profile for your PAL/NTSC machine.  
+
+
 # LICENSE
 
 Creative Commons, CC BY
