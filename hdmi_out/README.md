@@ -143,10 +143,21 @@ It may take several seconds to see a boot prompt on screen (especially on the B2
 
 ## Troubleshooting
 
+### Blank Video
+
 If after a few seconds you cannot see anything on your display, then:
 - Verify you can see at least the RGBtoHDMI menu when you press the "MENU" button. If not, then the problem is your RGBtoHDMI device. Make sure the MicroSD card with its firmware is correctly inserted, and USB power is active (check LED).
 - Verify that you have selected the CBM2 profile using the RGBtoHDMI menu.
 - Make sure your video chip is working. The MOS 6545A video chip mounted on most boards is prone to failure. You can replace it directly with a Motorola 68B45P.
+
+### Flashing green or garbage on screen
+
+- Enter the RGBtoHDMI menu.
+- Go to "Profile".
+- 
+
+
+
 
 # LICENSE
 
