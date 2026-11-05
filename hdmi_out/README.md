@@ -110,15 +110,19 @@ RGBtoHDMI profiles are simple text file saved on the MicroSD card.
 
 My RGBtoHDMI device uses the _"6-12_BIT_RGB" TTL Buffer Board_, so I store the profiles in this folder:  
 
-```Profiles/6-12_BIT_RGB/CBM2/```
+```/Profiles/6-12_BIT_RGB/CBM2/```
 
 ### High-Profile (7xx models)
+
+The current RGBtoHDMI firmware does not include a default video profile for CBM-II High-Profile machines.
 
 Use [this](https://github.com/0x444454/cbm2/blob/main/hdmi_out/Profiles/6-12_BIT_RGB/CBM2/High-Profile.txt) RGBtoHDMI profile.
 
 My RGBtoHDMI device uses the "6-12_BIT_RGB" TTL Buffer Board, so I store the profiles in this MicroSD folder:  
 
 ```/Profiles/6-12_BIT_RGB/CBM2/High-Profile.txt```
+
+NOTE: You may need to create the CBM2 folder.  
 
 
 ### Low-Profile (6xx models)
@@ -139,9 +143,10 @@ It may take several seconds to see a boot prompt on screen (especially on the B2
 
 ## Troubleshooting
 
-If voltages are ok, and your board has a MOS 6545A video chip, chances are this chip has failed. You can replace it directly with a Motorola 68B45P.
-Other chips prone to failures are: PLA (if you have a MOS one) and the 6509 CPU.
-
+If after a few seconds you cannot see anything on your display, then:
+- Verify you can see at least the RGBtoHDMI menu when you press the "MENU" button. If not, then the problem is your RGBtoHDMI device. Make sure the MicroSD card with its firmware is correctly inserted, and USB power is active (check LED).
+- Verify that you have selected the CBM2 profile using the RGBtoHDMI menu.
+- Make sure your video chip is working. The MOS 6545A video chip mounted on most boards is prone to failure. You can replace it directly with a Motorola 68B45P.
 
 # LICENSE
 
