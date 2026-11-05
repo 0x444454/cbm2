@@ -8,3 +8,9 @@ Example:
 /Profiles/6-12_BIT_RGB/Commodore/CBM2/High-Profile.txt
 ```
 
+# Colors
+
+The default is white text on black background.  
+
+Set ```output_colour=2``` for green text.  
+Set ```output_invert=0``` to swap text and background colors.  
