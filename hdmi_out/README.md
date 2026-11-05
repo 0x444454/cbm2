@@ -108,10 +108,6 @@ See [Low-Profile (6xx models)](#low-profile-6xx-models-pinout).
 RGBtoHDMI settings for a particular machine are also called "Profiles", which is a bit confusing because they have nothing to do with "Low" and "High" CBM-II machine profiles.    
 RGBtoHDMI profiles are simple text file saved on the MicroSD card.  
 
-My RGBtoHDMI device uses the _"6-12_BIT_RGB" TTL Buffer Board_, so I store the profiles in this folder:  
-
-```/Profiles/6-12_BIT_RGB/CBM2/```
-
 ### High-Profile (7xx models)
 
 The current RGBtoHDMI firmware does not include a default video profile for CBM-II High-Profile machines.
