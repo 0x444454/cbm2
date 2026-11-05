@@ -89,7 +89,7 @@ In our case, the other end will need an adapter (see next chapter).
 
 Solder one end of each of the 4 jumper wires to the DE-9 female solder-cup connector.  
 You may need to cut and strip some insulation at the wire end you are soldering.  
-Make sure the other end of the wire has a female jumper connector.  
+Make sure the other end of the wire has a female jumper connector ([picture](https://github.com/0x444454/cbm2/blob/main/hdmi_out/media/hp_pinout.jpg)).  
 
 This is the DE-9 pinout:
 
