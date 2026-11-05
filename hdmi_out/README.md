@@ -105,12 +105,26 @@ See [Low-Profile (6xx models)](#low-profile-6xx-models-pinout).
 
 ## RGBtoHDMI Settings
 
+RGBtoHDMI settings for a particular machine are also called "Profiles", which is a bit confusing because they have nothing to do with "Low" and "High" CBM-II machine profiles.    
+RGBtoHDMI profiles are simple text file saved on the MicroSD card.  
+
+My RGBtoHDMI device uses the _"6-12_BIT_RGB" TTL Buffer Board_, so I store the profiles in this folder:  
+
+```Profiles/6-12_BIT_RGB/CBM2/```
+
 ### High-Profile (7xx models)
-The current RGBtoHDMI firmware does not include a video profile for CBM-II High-Profile machines.
-[TBD]
+
+Use [this](https://github.com/0x444454/cbm2/blob/main/hdmi_out/Profiles/6-12_BIT_RGB/CBM2/High-Profile.txt) RGBtoHDMI profile.
+
+My RGBtoHDMI device uses the "6-12_BIT_RGB" TTL Buffer Board, so I store the profiles in this MicroSD folder:  
+
+```/Profiles/6-12_BIT_RGB/CBM2/High-Profile.txt```
+
 
 ### Low-Profile (6xx models)
-Low-Profile machines should be already supported (try with IBM CGA or Commodore 128).
+
+These machines output classic 15 kHz video, so they should be already supported.  
+Try using "IBM CGA" or "Commodore 128" RGBtoHDMI profiles.
 
 
 ## Embedding SID audio
