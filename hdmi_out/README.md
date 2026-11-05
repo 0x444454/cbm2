@@ -163,7 +163,7 @@ If after a few seconds you cannot see anything on your display, then:
 
 ### Flashing green or garbage on screen
 
-Make sure you have [selected the correct "CBM2" profile](#select-the-profile).
+- Make sure you have [selected the correct "CBM2" profile](#select-the-profile).
 
 ## FAQ
 
