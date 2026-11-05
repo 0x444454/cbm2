@@ -12,6 +12,7 @@ Example:
 
 The default is white text on black background.  
 
+Set ```output_colour=1``` for white text.  
 Set ```output_colour=2``` for green text.  
 Set ```output_colour=3``` for amber text.  
 Set ```output_invert=0``` to swap text and background colors.  
