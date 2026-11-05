@@ -8,7 +8,7 @@ Example:
 /Profiles/6-12_BIT_RGB/Commodore/CBM2/High-Profile.txt
 ```
 
-# Colors
+### Colors
 
 The default is white text on black background.  
 
