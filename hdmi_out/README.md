@@ -5,7 +5,7 @@ Tested on B-Series (B128/B256 a.k.a. CBM 600/700).
 
 **NOTE**: The P500 model uses a different video chip (VIC-II) and a different connector. Do **NOT** use this guide for a P500.  
 
-**NOTE**: This contraption is also compatible with the classic Commodore 128 and can be used to convert VDC (80 column) output to HDMI.  
+**NOTE**: This contraption is also compatible with the classic Commodore C128 and can be used to convert the VDC (80 column) output to HDMI.  
 
 ![overall](media/overall.jpg)  
 *The final solution (High-Profile machines)*
