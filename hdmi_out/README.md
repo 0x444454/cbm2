@@ -148,7 +148,7 @@ I prefer to use an external HDMI audio embedder.
 
 ## Power on
 
-After you have double checked everything and made sure there are no shorts, you can power on.  
+After you have double-checked everything and made sure there are no shorts, you can power on.  
 It may take several seconds to see a boot prompt on screen (especially on the B256).  
 
 
