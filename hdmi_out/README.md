@@ -59,7 +59,7 @@ These machines output 8 lines per character.
 | 1 | Video (Luma) |Green|
 | 2 | GND |Black|
 | 3 | V-Sync |Yellow|
-| 4 | Composite ||
+| 4 | Composite |**[Do NOT use]**|
 | 5 | H-Sync |Orange|
 
 **NOTE: You will need to wire the DE9 signals to a 5-pin DIN male connector which will plug into the back side of your Low-Profile machine.**
