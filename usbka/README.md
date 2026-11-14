@@ -45,7 +45,7 @@ Use the Mega +5V and GND for power and ground.
 ¹ No STROBE pull-down is fitted in this build (optional).  
 ² Fit a **100 nF ceramic bypass capacitor** between MT8816 pin 40 (VDD) and GND, close to the chip.  
 
-Leave MT8816 pins 14 (NC), 15 (Y7), 17 (Y6), and 34 (NC) unconnected.  
+Leave MT8816 pins 14 (N/C), 15 (Y7), 17 (Y6), and 34 (N/C) unconnected.  
 
 ### CBM-II DB25 male to MT8816 matrix
 
@@ -73,8 +73,10 @@ Leave MT8816 pins 14 (NC), 15 (Y7), 17 (Y6), and 34 (NC) unconnected.
 | 20 | PC2 | Y2 | 39 |
 | 21 | PC3 | Y3 | 1 |
 | 22 | GND | Common ground | — |
-| 23, 24 | N/C _(Not wired in this build)_ | — | — |
+| 23, 24 | N/C | — | — |
 | 25 | PC4 | Y4 | 21 |
+
+Leave DB25 pins 23 and 24 unconnected.  
 
 ### Mega to CH9350L module
 
