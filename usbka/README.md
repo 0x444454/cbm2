@@ -9,7 +9,7 @@ Connect a USB keyboard to your CBM-II.
 
 | **Quantity** | **Item** | **Notes** |
 |---:|---|---|
-| 1 | DB25 male connector | I used the screw-terminal type but solder-cup is preferable. |
+| 1 | DB25 male connector | I used the screw-terminal type for this prototype.¹ |
 | 1 | Arduino Mega 2560 | Tested on Mega 2560 R3. |
 | 1 | CH9350L | USB to serial module. I use the _Mustpoint Ch9350_. |
 | 1 | MT8816 | I used the "AE1" version (40 pin DIP) for the prototype. |
@@ -19,6 +19,7 @@ Connect a USB keyboard to your CBM-II.
 | (see below) | Wires | |
 | 1 | USB Keyboard | Use your favorite PC keyboard. I have a wireless one with USB dongle. |
 
+¹ You may prefer a solder-cup 25DB male connector. The screw-terminal is only useful for prototyping. The final PCB design (work in progress) will just need a 25DB-to-25DB full cable (all pins wired).  
 
 ## Wiring
 
@@ -36,14 +37,14 @@ Use the Mega +5V and GND for power and ground.
 | D35 | 25 | AY1 |
 | D36 | 2 | AY2 |
 | D37 | 38 | DATA |
-| D38 | 18 | STROBE¹ |
+| D38 | 18 | STROBE² |
 | D39 | 3 | RESET: Add the **10 kΩ pull-up** resistor to +5V |
 | D40 | 19 | Y5: shared with DB25 pin 13 (PC5); USBKA leaves D40 as an input with no internal pull-up |
-| +5V | 36, 40 | CS, VDD² |
+| +5V | 36, 40 | CS, VDD³ |
 | GND | 16, 20 | VSS, VEE |
 
-¹ No STROBE pull-down is fitted in this build (optional).  
-² Fit a **100 nF ceramic bypass capacitor** between MT8816 pin 40 (VDD) and GND, close to the chip.  
+² No STROBE pull-down is fitted in this build (optional).  
+³ Fit a **100 nF ceramic bypass capacitor** between MT8816 pin 40 (VDD) and GND, close to the chip.  
 
 Leave MT8816 pins 14 (N/C), 15 (Y7), 17 (Y6), and 34 (N/C) unconnected.  
 
