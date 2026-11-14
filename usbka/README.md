@@ -2,7 +2,7 @@
 
 Connect a USB keyboard to your CBM-II.  
 **NOTE: This is for High-Profile machines (separate keyboard).**  However, it can be adapted for Low-Profile machines.  
-The current prototype is using a breadbord. PCB is work in progress.  
+The current prototype is using a breadboard. PCB is work in progress.  
 
 ![overall](media/usbka_overall.jpg)
 *The current prototype*
