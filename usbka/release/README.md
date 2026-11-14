@@ -1,5 +1,7 @@
 # BINARIES for Arduino Mega 2560
 
+Firmware file: **```usbka.ino.hex```**
+
 You can flash your Mega using [Arduino CLI](https://docs.arduino.cc/arduino-cli/installation/).
 
 ```
