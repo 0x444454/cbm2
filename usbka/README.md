@@ -25,6 +25,8 @@ The current prototype is using a breadboard. PCB is work in progress.
 
 ## Wiring
 
+Schematics are in the [KiCad](https://github.com/0x444454/cbm2/tree/main/usbka/KiCad) project.  
+
 ### Arduino Mega to MT8816 control and power
 
 Use the Mega +5V and GND for power and ground.  
