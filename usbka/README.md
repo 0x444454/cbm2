@@ -135,8 +135,9 @@ If only some keys are not working, then you may have a partially failed MT8816 c
 
 ## References
 
-CBM-II [High-Profile keyboard schematics](https://www.zimmers.net/anonftp/pub/cbm/schematics/computers/b/8256059-10.gif).
-MT8816: [MT8816 datasheet, Figure 2 (40-pin DIP)](https://www.mouser.com/datasheet/2/268/Microchip_06182024_MT8816AE1-3459976.pdf#page=2).
+CBM-II [High-Profile keyboard schematics](https://www.zimmers.net/anonftp/pub/cbm/schematics/computers/b/8256059-10.gif).  
+MT8816: [MT8816 datasheet, Figure 2 (40-pin DIP)](https://www.mouser.com/datasheet/2/268/Microchip_06182024_MT8816AE1-3459976.pdf#page=2).  
+Arduino Mega 2560 Rev3 [pinout](https://docs.arduino.cc/resources/pinouts/A000067-full-pinout.pdf).  
 
 
 # LICENSE
