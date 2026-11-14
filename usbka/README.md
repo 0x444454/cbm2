@@ -1,7 +1,7 @@
 # CBM-II (B128/B256) USB Keyboard Adapter
 
 Connect a USB keyboard to your CBM-II.  
-**NOTE: This is for High-Profile machines (separate keyboard).**  However, it is possible to adapt this to a Low-Profile machine.  
+**NOTE: This is for High-Profile machines (separate keyboard).**  However, it can be adapted for Low-Profile machines.  
 
 ![overall](media/usbka_overall.jpg)
 
