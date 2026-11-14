@@ -129,7 +129,7 @@ You can "hot-reflash" the Mega to test firmware modifications. However, you may 
 ## Power on sequence
 
 After you have double checked everything and made sure there are no shorts, you can proceed with power on.  
-**USBKA is powered by the Arduino Mega via its USB cable.**  
+**IMPORTANT: USBKA is powered by the Arduino Mega via its USB cable, not by the CBM-II.**  
 **Always power on the USBKA (Arduino Mega) first. Then the CBM-II computer.**  
 
 ## Power off sequence
