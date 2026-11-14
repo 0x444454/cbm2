@@ -13,7 +13,7 @@ Open `USBKA.kicad_pro` in KiCad, then open the schematic.
 
 The sheet shows the wiring for the CBM-II B128/B256 High-Profile DB25 keyboard port.  
 A1 and A2 represent the assembled Arduino Mega 2560 and *Mustpoint Ch9350 module*.  
-J1 is the male plug on the adapter cable. The MT8816AE1 pin numbers are for the 40-pin DIP.  
+J1 is the male plug on the adapter cable. The MT8816 pin numbers are for the 40-pin DIP chip (MT8816AE1).  
 
 - The Mega's USB supply powers the adapter. The adapter does **not** take power from DB25.
 - DB25 pin 22 provides the common ground connection to the CBM-II.
