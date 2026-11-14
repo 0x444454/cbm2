@@ -103,11 +103,12 @@ Connect your USB keyboard to the module’s USB-A socket.
 
 **Make sure your system is powered off when connecting the adapter.**  
 
-Double check all wirings.
-Keep both computer and USBKA (Arduino Mega) powered off.  
-Plug the PSU connector into the motherboard.  
-Get your meter and set it to verify continuity.  
-Make sure no voltage line is shorted to ground.  
+- Double check all wirings.  
+- Disconnect the CBM-II original keyboard (if still attached).  
+- Keep both computer and USBKA (Arduino Mega) powered off.  
+- Plug the PSU connector into the motherboard.  
+- Get your meter and set it to verify continuity.  
+- Make sure no voltage line is shorted to ground.  
 
 ## Debugging
 
@@ -123,10 +124,13 @@ int debug_log_us_iso = 2;  // 0=disabled, 1=press, 2=press and release
 int debug_log_conv = 1;    // 0=disabled, 1=converted B128/B256 key presses, 2=also print CBM-II port bits and physical MT8816 X/Y lines
 ```
 
+You can "hot-reflash" the Mega to test firmware modifications. However, you may need to reset the CBM-II for a proper test, depending on its internal status.  
+
 ## Power on sequence
 
 After you have double checked everything and made sure there are no shorts, you can proceed with power on.  
-**Always power on the USBKA (Arduino Mega) first. Then the computer.**  
+**USBKA is powered by the Arduino Mega via its USB cable.**  
+**Always power on the USBKA (Arduino Mega) first. Then the CBM-II computer.**  
 
 ## Power off sequence
 
