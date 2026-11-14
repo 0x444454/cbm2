@@ -16,7 +16,7 @@ NOTE: This is for High-Profile machines (separate keyboard).  However, it is pos
 | 1 | 100 nF ceramic capacitor, 16 V | Bypass capacitor |
 | 1 | 10 kΩ resistor | Pull-up for RESET |
 | 1 | Breadboard | For prototyping. PCB design is not yet ready. |
-| (see diagram) | Wires | |
+| (see below) | Wires | |
 | 1 | USB Keyboard | Use your favorite PC keyboard. I have a wireless one with USB dongle. |
 
 
