@@ -93,7 +93,7 @@ Leave DB25 pins 23 and 24 unconnected.
 | GND | GND |
 
 If your CH9350L module has a "485" pin, leave it unconnected.  
-If your module (e.g. _Mustpoint Ch9350_) has 5 dip switches, set all of them to the "1" position (printed on the PCB; ignore the "ON" label on the DIP-switches). This will set it to **USB host**, **States 0/1**, serial interface at **115200 baud**.  
+If your module (e.g. _Mustpoint Ch9350_) has 5 DIP-switches, set all of them to the "1" position (printed on the PCB; ignore the "ON" label on the DIP-switches). This will set it to **USB host**, **States 0/1**, serial interface at **115200 baud**.  
 
 ### CH9350L module to USB keyboard
 
