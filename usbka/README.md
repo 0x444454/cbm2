@@ -36,15 +36,16 @@ Use the Mega +5V and GND for power and ground.
 | D35 | 25 | AY1 |
 | D36 | 2 | AY2 |
 | D37 | 38 | DATA |
-| D38 | 18 | STROBE |
+| D38 | 18 | STROBE¹ |
 | D39 | 3 | RESET: Add the **10 kΩ pull-up** resistor to +5V |
 | D40 | 19 | Y5: shared with DB25 pin 13 (PC5); USBKA leaves D40 as an input with no internal pull-up |
-| +5V | 36, 40 | CS, VDD |
+| +5V | 36, 40 | CS, VDD² |
 | GND | 16, 20 | VSS, VEE |
 
-- Fit a **100 nF ceramic bypass capacitor** between MT8816 pin 40 (VDD) and GND, close to the chip.
-- No STROBE pull-down is fitted in this build.
-- Leave MT8816 pins 14 (NC), 15 (Y7), 17 (Y6), and 34 (NC) unconnected.
+¹ No STROBE pull-down is fitted in this build (optional).  
+² Fit a **100 nF ceramic bypass capacitor** between MT8816 pin 40 (VDD) and GND, close to the chip.  
+
+Leave MT8816 pins 14 (NC), 15 (Y7), 17 (Y6), and 34 (NC) unconnected.  
 
 ### CBM-II DB25 male to MT8816 matrix
 
