@@ -11,7 +11,7 @@ NOTE: This is for High-Profile machines (separate keyboard).  However, it is pos
 |---:|---|---|
 | 1 | DB25 male connector | I used the screw-terminal type but solder-cup is preferable. |
 | 1 | Arduino Mega 2560 | Tested on Mega 2560 R3. |
-| 1 | CH9350L | USB to serial adapter. I used the Mustpoint brand. |
+| 1 | CH9350L | USB to serial module. I used the _Mustpoint Ch9350_. |
 | 1 | MT8816 | I used the "AE1" version (40 pin DIP) for the prototype. |
 | 1 | 100 nF ceramic capacitor, 16 V | Bypass capacitor |
 | 1 | 10 kΩ resistor | Pull-up for RESET |
