@@ -92,7 +92,7 @@ If your module (e.g. _Mustpoint Ch9350_) has 5 dip switches, set all of them to 
 
 ### CH9350L module to USB keyboard
 
-Connect the keyboard to the module’s USB-A socket.  
+Connect your USB keyboard to the module’s USB-A socket.  
 
 ## Double check connections
 
