@@ -140,7 +140,7 @@ After you have double checked everything and made sure there are no shorts, you 
 ## Troubleshooting
 
 Check wirings again.  
-If only some keys are not working, then you may have a partially failed MT8816 chip. If buying used, get more than one chip, just in case.  
+If only some keys are not working, then you may have a partially failed MT8816 chip (ask me how I know :-).  If buying used, get more than one chip, just in case.  
 
 ## References
 
