@@ -106,8 +106,17 @@ Make sure no voltage line is shorted to ground.
 
 ## Debugging
 
+The Mega sends debug output to its USB interface at 500k baud. Check the Serial Monitor window on the Arduino IDE.  
 
+In the INO sketch, you can configure debug verbosity:
 
+```
+// Debug logging controls only.
+int debug_log_RAW = 0;     // 0..1: CH9350L status, key frames and valid report byte changes
+int debug_log_HID = 0;     // 0..1: decoded HID transitions and unsupported report notices
+int debug_log_US_ISO = 2;  // 0=disabled, 1=press, 2=press and release
+int debug_log_CONV = 1;    // 0=disabled, 1=converted B128/B256 key presses, 2=also print CBM-II port bits and physical MT8816 X/Y lines
+```
 
 ## Power on sequence
 
