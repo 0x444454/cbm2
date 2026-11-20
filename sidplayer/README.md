@@ -3,7 +3,7 @@
 Play SID tunes on your CBM-II computer.  
 Currently supports B128/B256 only.  
 
-![overall](media/screenshot.png)
+![screenshot](media/screenshot.png)
 
 # LICENSE
 
