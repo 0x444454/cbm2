@@ -43,17 +43,5 @@ They are original compositions by Alexander Semenov (Shiru), licensed under Crea
 Author and original music/licence notice:  
 https://shiru.untergrund.net/music.shtml  
 
-Original SID archive:  
-https://shiru.untergrund.net/files/mus/music_sid.zip  
-
-SID files obtained from the HVSC mirror at:
-https://hvsc.sannic.nl/?dir=C64Music/MUSICIANS/S/Shiru
-
-The SID file contents are unmodified.
-Disk filenames are shortened to fit the Commodore 16-character limit:
-ROCKETS.SID, SUMMER.SID, CATS.SID and TECHNOPOLIS.SID.
-
-Shiru does not endorse this player or its distributor.
-
 Licence summary:
 https://creativecommons.org/licenses/by/3.0/
