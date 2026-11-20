@@ -33,7 +33,7 @@ https://github.com/0x444454/cbm2/tree/main/sidplayer
 ## Example SID tunes by Shiru
 
 The four example tunes remain licensed separately from the player.  
-They are original compositions by Alexander Semenov (Shiru), licensed under Creative Commons Attribution 3.0 Unported (CC BY 3.0):
+They are original compositions by Shiru, licensed under Creative Commons Attribution 3.0 Unported (CC BY 3.0):
 
 - All Rockets Flew Away (2009)  
 - Summer Vacation (2010)  
