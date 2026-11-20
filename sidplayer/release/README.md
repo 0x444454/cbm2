@@ -38,10 +38,10 @@ https://github.com/0x444454/cbm2/tree/main/sidplayer
 The four example tunes remain licensed separately from the player.  
 They are original compositions by Shiru, licensed under Creative Commons Attribution 3.0 Unported (CC BY 3.0):
 
-- All Rockets Flew Away (2009)  
-- Summer Vacation (2010)  
-- Strolling Cats (2010)  
-- Technopolis (2011)  
+- _All Rockets Flew Away_ (2009)  
+- _Summer Vacation_ (2010)  
+- _Strolling Cats_ (2010)  
+- _Technopolis_ (2011)  
 
 Author and original music/licence notice:  
 https://shiru.untergrund.net/music.shtml  
