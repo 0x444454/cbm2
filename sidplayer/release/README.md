@@ -17,7 +17,7 @@ dload"sidplayer"
 run
 ```
 
-# LICENSE
+# LICENSES
 
 ## CBM-II SID Player
 
