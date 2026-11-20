@@ -17,6 +17,8 @@ dload"sidplayer"
 run
 ```
 
+The disk contains 4 demo songs by Shiru (see below).
+
 # LICENSES
 
 ## CBM-II SID Player
