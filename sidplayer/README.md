@@ -8,7 +8,7 @@ Currently supports B128/B256 only.
 ## F.A.Q. / Troubleshooting
 
 **Q.** Are tunes playing samples supported ?  
-**A.** Some ways of playing samples are supported (e.g. _Giana Sisters_).  
+**A.** Some ways of playing samples are supported (e.g. _Giana Sisters_, _BMX Kidz_).  
 
 **Q.** My modern SID replacement is not working.  
 **A.** Make sure it supports 2 MHz operation, and you have installed the latest firmware upgrade.  
