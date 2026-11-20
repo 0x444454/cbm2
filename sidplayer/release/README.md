@@ -18,7 +18,7 @@ run
 ```
 
 The disk contains 4 demo songs by Shiru (see below).  
-Change disk after loading to play your favorite SID tunes (song list is not refreshed automatically, so load a song from the previous disk and when it fails press "ENTER" to read the new disk).  
+Change disk after loading to play your favorite SID tunes (song list is not refreshed automatically, so load a song from the previous disk and when it fails, press "ENTER" to read the new disk).  
 
 # LICENSES
 
